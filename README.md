@@ -17,3 +17,7 @@ Com execeção do arquivo <b>index.php</b> todos os arquivos referentes ao progr
 </ul>
 
 Fora estas classes ainda teremos dentro da pasta App as pastas Controllers, Models e Views onde a pasta Controller será responsavel por armazenar os arquivos que irão realizar toda a logica da aplicação, a pasta Models será responsavel por realizar as Querys com o banco de dados da aplicão, e a pasta Views sera responsavel por armazenar os arquivos que serão renderizados na tela do usuario
+
+<h2>Banco de dados</h2>
+
+Para ultilizar os bancos de daos ultilizados no projeto você deve executar as querys presentes no arquivo querys.sql 
