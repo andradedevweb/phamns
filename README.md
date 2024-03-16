@@ -20,4 +20,4 @@ Fora estas classes ainda teremos dentro da pasta App as pastas Controllers, Mode
 
 <h2>Banco de dados</h2>
 
-Para ultilizar os bancos de daos ultilizados no projeto você deve executar as querys presentes no arquivo querys.sql 
+Para ultilizar as tabelas e o banco de dados ultilizados no projeto você deve executar as querys presentes no arquivo querys.sql 
