@@ -1,6 +1,6 @@
 # Phamns
 Um projeto de rede social para meu portifólio! 
-
+<img src="phamns_redesocial.png">
 <h2> Descrição </h2>
 
 O projeto foi desenvolvido com padrão MVC e tem funcionalidades simples de uma rede social tais como sistema de posts, sistema de amizades, sistema de login e usuario, comunidade, feed e etc...
